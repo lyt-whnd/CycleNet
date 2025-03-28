@@ -1,8 +1,8 @@
 .idea/
 *.pyc
 #*.pth
-dataset/
 test_results/
 results/
+dataset/
 logs/
 .DS_Store
